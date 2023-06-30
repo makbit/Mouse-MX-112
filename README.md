@@ -17,7 +17,7 @@ The [`Hardware`](Hardware) folder contains Eagle CAD 9 schematics files. The boa
 The firmware is under development..
 
 ##### Some pictures of this Mouse MX-112:cool:
-!['Hardware/MX-112-top.png'](MX-112-top.png)
+!['PCB image'](Hardware/MX-112-top.png)
 
 ### TODO :pen:
 - [] Solder;
